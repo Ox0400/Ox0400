@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **Ox0400/Ox0400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img height="260px" src="https://github-contributor-stats.vercel.app/api?username=Ox0400" />
+</div>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Ox0400&show_icons=true&theme=gotham" alt="Ox0400" />
+</p>
